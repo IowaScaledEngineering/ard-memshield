@@ -825,14 +825,14 @@ device=74HC138
 T 48900 49100 5 10 1 1 0 6 1
 refdes=U4
 T 47500 49650 5 10 0 0 0 0 1
-footprint=DIP16
+footprint=SO16
 }
 C 53300 54900 1 0 0 74power-1.sym
 {
 T 53600 55800 5 10 1 1 0 0 1
 refdes=U4
 T 53500 56350 5 10 0 0 0 0 1
-footprint=DIP14
+footprint=SO16
 T 53800 55500 5 10 1 1 0 0 1
 device=74HC138
 }

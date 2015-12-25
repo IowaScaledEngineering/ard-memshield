@@ -2,5 +2,4 @@ schematics ard-memshield.sch
 output-name ../pcb/ard-memshield
 skip-m4
 elements-dir ../../../footprints
-
-
+elements-dir ../fp

@@ -6,7 +6,7 @@ FileVersion[20070407]
 PCB["" 210000 270000]
 
 Grid[500.0 0 0 0]
-Cursor[105500 59000 0.000000]
+Cursor[29500 75500 0.000000]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[800 800 800 800 2000 800]
@@ -2179,7 +2179,7 @@ Layer(5 "silk")
 	Text[183000 71000 0 100 "SCL" "clearline"]
 	Text[182000 81000 0 100 "SDA" "clearline"]
 	Text[19500 72500 0 120 "PWR" "clearline"]
-	Text[106500 213500 0 100 "ARD-MEMSHIELD v1.0" "clearline"]
+	Text[106500 213500 0 100 "ARD-MEMSHIELD v1.1" "clearline"]
 	Text[106500 221000 0 100 "Iowa Scaled Engineering" "clearline"]
 	Text[106500 228500 0 100 "http://www.iascaled.com" "clearline"]
 	Text[106500 236000 0 100 "CC BY-SA (C)2016" "clearline"]
@@ -2190,6 +2190,7 @@ Layer(5 "silk")
 	Text[121086 105914 0 100 "CS" "clearline"]
 	Text[165086 87914 0 100 "D8" "clearline"]
 	Text[134586 107914 0 100 "D4" "clearline"]
+	Text[13000 82000 0 100 "+" "clearline"]
 )
 NetList()
 (
